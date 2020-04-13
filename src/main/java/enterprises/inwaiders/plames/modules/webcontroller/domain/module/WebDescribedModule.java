@@ -1,4 +1,4 @@
-package com.inwaiders.plames.modules.webcontroller.domain.module;
+package enterprises.inwaiders.plames.modules.webcontroller.domain.module;
 
 public interface WebDescribedModule {
 

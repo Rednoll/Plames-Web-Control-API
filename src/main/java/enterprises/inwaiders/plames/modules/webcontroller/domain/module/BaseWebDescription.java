@@ -1,9 +1,9 @@
-package com.inwaiders.plames.modules.webcontroller.domain.module;
+package enterprises.inwaiders.plames.modules.webcontroller.domain.module;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.inwaiders.plames.modules.webcontroller.domain.module.button.Button;
+import enterprises.inwaiders.plames.modules.webcontroller.domain.module.button.Button;
 
 public class BaseWebDescription implements WebDescription {
 

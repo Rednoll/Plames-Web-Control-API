@@ -1,4 +1,4 @@
-package com.inwaiders.plames.modules.webcontroller.domain.module.button;
+package enterprises.inwaiders.plames.modules.webcontroller.domain.module.button;
 
 public class Button {
 
